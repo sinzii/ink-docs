@@ -28,6 +28,8 @@ There are several levels of abstraction where you can start your journey creatin
 
 + [`@polkadot/api-contract`](https://polkadot.js.org/docs/api-contract) **(recommended)**: abstraction on top of `@polkadot/api` for the `pallet-contracts`. Makes interaction with smart contracts more comfortable and type safe.
 
++ [Dedot](https://dedot.dev) [`dedot/contract`](https://github.com/dedotdev/dedot?tab=readme-ov-file#interact-with-ink-smart-contracts) **(recommended)**: A next-gen JavaScript client for Polkadot-SDK blockchains, providing type-safe smart contract interaction with IntelliSense auto-completion and fully typed APIs using TypeScript/JavaScript type system.
+
 ### React
 
 + [`useInkathon`](https://github.com/scio-labs/use-inkathon) **(recommended)**: A hooks library for the popular frontend javascript framework React with focus on smart-contract interactions. Built using `@polkadot/api` & `@polkadot/api-contract`.
